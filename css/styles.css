@@ -16,6 +16,10 @@ html, body {
 	height: calc(100% - 100px);
 }
 
+.slick-list {
+	height: 100%;
+}
+
 .slider-item {
 	text-align: center;
 }
